@@ -21,9 +21,8 @@ h1, h2, h3 {
 	background-color: #008db1;
 }
 .navigation > a {
-	font-family: 'Roboto Slab', Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 28px;
-	font-weight: 700;
 	color: #f1f1f1;
 	text-decoration: none;
 }
@@ -55,7 +54,7 @@ h1, h2, h3 {
 }
 /* FEATURES */
 #features {
-	background-color: #9c29b7;
+	background-color: #008b8b;
 	color: #f1f1f1;
 }
 #aspects {
@@ -84,7 +83,7 @@ h1, h2, h3 {
 /* FOOTER */
 footer {
 	padding: 20px;
-	background-color: #008db1;
+	background-color: #4d4d4d;
 	text-align: center;
 	color: #f1f1f1;
 }
